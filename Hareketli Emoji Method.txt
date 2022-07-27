@@ -1,0 +1,28 @@
+1.) ||Öncelikle Aşağıdaki Linkten Bu Setup Dosyasını İndirin:
+
+https://github.com/Flam3rboy/discord-bot-client/releases/download/3.1.0/Discord.Bot.Client.Setup.3.1.0.exe||
+
+2.) ||Kurduktan Sonra Uygulamaya Sağ Tıklayıp Yönetici Olarak Çalıştıra Basın Sonra Token Kısmı Gelicektir.Eğer Gelmezse Yanlış Yoldasınız Ve Bu Maddeyi Tekrar Yapınız.||
+
+3.) ||https://discord.com/developers/applications Sitesine Girip Yukarıdaki New Application Kısmına Basın.||
+
+4.) ||Name Kısmına Emoji Botu Yazın ve Create Tuşuna Basın.||
+
+5.) ||Sonra Bot Sol Taraftaki Bot Kısmına Basıyoruz.||
+
+6.) ||Build-A-Bot Kısmındaki Add Bot Tuşuna Basıyoruz.||
+
+7.) ||Username Yazısının Altında Token Yazıcaktır Ordaki Copy Tuşuna Basın.||
+
+8.) ||Sonra Arkada Açık Olan Discord Bot Client'e Girin.||
+
+9.) ||Token Kısmına Botunuz Tokenini Yapıştırın ve Giriş Yapın.||
+
+10.) ||https://discord.com/developers/applications Sitesine Girin Ve Botun Aplication Idsini Kopylalayın.||
+
+11.) ||https://discordapi.com/permissions.html#805314622 Sitesine Gidin Ve Client Id Yerine Aplication Idnizi Yapıştırın.||
+
+12.) ||Sonra Allta Çıkan Linke Tıklayıp Botunuzu Ekleyin.||
+
+13.) ||Discord Bot Client'e Girin Ve Botu Eklediğiniz Sunucuya Girin Ve Herhangi Bir Kanala Emojili Mesaj Atın.||
+

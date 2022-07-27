@@ -1,0 +1,27 @@
+1-) Ddos. Ben kendim shawty.club kullanıyorum, ancak udp-ddos yöntemine sahip her şeyi kullanabilirsiniz.
+2-) Daha fazlası değil
+Yani ne yapmalıyız?
+3-) Görev yöneticinize gidin> Performans> Kaynak İzleyiciyi Açın
+
+https://imgur.com/a/4eQ09dS
+
+----------
+
+https://imgur.com/a/JTLy4iF
+
+--------
+Ve en aktif Zoom.exe işlemini bulun
+--------
+
+https://imgur.com/a/fmg7qGn
+
+-----------
+Ve işte ip adresi!
+Not: Numberous yerine ec2-blablabla adresini alabilirsiniz, bu yüzden https://check-host.net/%27e gitmeli ve numaralı ipi almalısınız
+-----------
+Ve stres atıcımıza gitmemeliyiz. Udp yöntemiyle yalnızca 8801 numaralı bağlantı noktasını kullanın.
+----------
+
+https://imgur.com/a/beARlGA
+
+Bu kadar!

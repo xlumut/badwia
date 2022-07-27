@@ -1,0 +1,19 @@
+Dikkat! Bu Method Bilgisayarı x64 Olan ve Tokenleri Uyuşan Hesaplarda Gerçekleşir!
+
+1. Hesabınızı Telefon Numarası İle Doğrulamalısınız Aksi Takdirde Discord Hesabınızı Şüpheli Durumuna Düşürür Bunun İçin Fake Tel Sitesi Kullanabilirsiniz...
+
+2. Opera, Yandex, Chrome Fark Etmez https://discord.com/ Adresine Girin ve Hesabınıza Giriş Yapın
+
+3. Sunucunuza Gelin ve Boost Basma Kısmına Gelin.
+
+4. Boost Basmak İçin Kart İsteyecektir Discord'un Desteklediği Bir Kart Kurun İçinde Para Olmasına Gerek Yok.
+
+5. Herhangi Bir Yere Sağ Tıklayarak Paneli Açın
+
+6. Console Kısmına Şunu Yazın /ibd 
+
+7. Console Kısmını Kapatın
+
+8. Satın Alma Tuşuna Bastığınız Anda CTRL T Yapın
+
+9. Boost'unuzun Tadını Çıkarın...

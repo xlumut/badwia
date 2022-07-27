@@ -1,0 +1,33 @@
+Parola saldirisi, bir bilgisayar korsaninin kullanicinin giris bilgilerini almaya çalistigi herhangi bir yöntemdir. Yaklasim sofistike olmak zorunda degil. Çogu durumda, parolalar, kullanicilar arasinda tercih edilen bir parola olarak “parola” gibi birkaç yaygin kelime öbegini denedikten sonra tahmin edilebilir . Diger zamanlarda, bilgisayar korsanlari asagidaki saldiri yöntemlerinden birine güvenebilir.
+
+Kaba Kuvvet
+Kaba kuvvet saldirisinda, bilgisayar korsanlari kelimenin tam anlamiyla mümkün oldugunca çok sayida sayi ve harf kombinasyonundan geçmek için bir bilgisayar programi kullanarak kullanici hesaplarinin "kapilarini dövmeye" çalisirlar. Bazi saldirilar yaygin parolalari deneyerek baslar ve daha karmasik ifadelere geçer; digerleri dogru olani bulana kadar akliniza gelebilecek her sifre kombinasyonunu deneyin.
+
+Sözlük Saldirisi Bilgisayar
+korsanlari, olasi parolalarin temel bir “sözlügünü” kullanarak agdaki bir veya daha fazla kullanici hesabinda oturum açmaya çalisir. Bu tür bir saldirinin ise yaramasinin tek nedeni, kullanicilarin giris kimlik bilgileri için tahmin edilmesi kolay kelimelere güvenmeye devam etmeleri ve böylece sifre kirma isini kötü niyetli üçüncü taraflar için basit hale getirmeleridir. Bilgisayar korsanlari bir hesaba erisirse, diger kullanici hesaplarina erismelerine olanak taniyan bilgileri toplayabilirler.
+
+Kimlik Bilgileri Doldurma
+Kimlik bilgileri doldurma saldirilari, ayni kimlik bilgilerini çok sayida hesap için yeniden kullanmanin tehlikelerini kanitlar. Parolalar ve diger ayrintilar bir ihlali takiben sifirlandiktan sonra bile, bilgisayar korsanlari diger platformlardaki kullanicilarin hesaplarina erismek için önceden çalinan kimlik bilgilerini kullanmaya çalisabilir. Bilgisayar korsanlari ayrica, çalinan parolalarin listesini satarak kötü amaçli etkinliklerin yayginlasmasina ve aglar arasinda ihlal riskinin artmasina neden olabilir.
+
+Sosyal Mühendislik
+Kimlik Avi, bilgisayar korsanlari tarafindan kullanilan bir numarali sosyal mühendislik yöntemidir. Çalisanlar, sirketteki baska bir kisiden, genellikle tiklama baglantisi, indirilecek bir dosya veya giris bilgisi istegi ile yasal mesajlar alirlar. Bu e-postalara yanit vermek, aga kötü amaçli yazilim yüklenmesine veya kimlik bilgilerinin çalinmasina neden olur. Bilgisayar korsanlari, telefon görüsmesi yapma ve BT departmanindan teknik bir sorunun düzeltilmesine yardimci olmak için sifre bilgisi isteyen biri gibi poz verme gibi çevrimdisi teknikleri de deneyebilir.
+
+Trafik Algilama
+Aglar arasinda seyahat eden veriler, bilgisayar korsanlarinin trafigi izlemek ve günlüge kaydetmek için kullandiklari paket algilayicilarina karsi savunmasizdir. Koklayicilarin elde ettigi tüm sifre verileri potansiyel olarak yetkisiz ag erisimine izin verebilir. Bazi durumlarda, bilgisayar korsanlari sifrelenmis parolalari desifre etmek için ek araçlar kullanabilir, böylece bir güvenlik araci olarak sifrelemenin faydasini baltalar.
+
+Parola Püskürtme
+Tek bir hesaba erismek için birden çok parolayi denemek yerine parola püskürtme saldirilari, çok sayida hesapta oturum açma girisiminde bulunmak için yaygin parolalarin kullanilmasini içerir. Bilgisayar korsanlarinin tekrarlanan basarisiz oturum açma islemlerinden sonra normalde tetiklenen hesap kilitlenmeleri etrafinda çalismasini saglayan yavas, sabit bir saldiri yöntemidir. Parola püskürtme giderek yayginlasmaktadir ve genellikle tek oturum açma (TOA) hesaplarini, bulut tabanli uygulamalari ve e-posta hesaplarini hedeflemek için kullanilir. Bu özel alanlari hedefleyerek, bilgisayar korsanlari aglara daha yaygin erisim saglayabilir ve daha fazla miktarda veriyi tehlikeye atabilir veya çalabilir.
+
+Rainbow Table
+Hashing parolalari genellikle güvenilir bir güvenlik uygulamasi olarak kabul edilir, ancak rainbow table saldirilari etkinligini tehdit eder. Bilgisayar korsanlari, bilinen algoritmalar için karma degerlerin derlemelerini kullanarak, dogru olani buluncaya kadar olasi tüm karmalarla sistematik olarak çalisabilir. Bu, önemli miktarda bilgi islem gücü gerektirir ve karma sifreleri kirmayi basaracagi garanti edilmez, ancak varligi, isletmelerin sifre güvenligini saglamak için herhangi bir tek teknige güvenme tehlikesi konusunda uyarmalidir.
+
+Sifre Yönetimi için En Iyi Uygulamalar
+Isletmeler, bilgisayar korsanlarinin kimlik bilgilerini elde etmek için hangi saldirilari kullanabilecegini tahmin edemediginden, yönetim kurulu genelinde akilli parola yönetimi uygulamak, yetkisiz ag erisimine karsi en güçlü savunmadir. Sifreleri korumak için en iyi uygulamalar sunlardir:
+
+• Güçlü parola olusturmayi gösterme ve uygulama
+• Parola yöneticilerinin kullanimini uygulama
+• Uzaktan ag erisimi için VPN olusturma
+• Parola güvenligini otomatiklestirmek için ayricalikli erisim yönetimi (PAM) yazilimi kullanma
+• Çalisanlari sosyal mühendislik semalarinin özellikleri konusunda egitme
+• Bir TOA'ya geçme faktörlü kimlik dogrulama (MFA) seçenegi
+• Kullanicilarin cihazlarinda yüklü bir uygulama araciligiyla oturum açma kimlik dogrulamasi.

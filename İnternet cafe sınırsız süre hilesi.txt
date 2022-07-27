@@ -1,0 +1,12 @@
+UYARI: Yarım saatlik açtırıp da 2 saat oturmayın Kafe sahibini uyandırmayın 1 saatlik açtırıp 1.5 saat oynayın gibi, Size 2 Yöntem anlatacağım 1.sini zaten birçoğunuz biliyordur ama yinede anlatıyım.
+
+
+Yöntemler;
+
+1. Yöntem Bilgisayarı açtırın, Görev Yöneticisi/İşlemler‘den cplusc.exe‘yi sonlandırarak süresiz oturma sağlanabiliyor. (Ancak buna önlem olarak bazı internet kafelerin Görev Yöneticisi’nin İşlemler kısmı kapatılmış. O zaman hemen 2. Yönteme bakın.)
+
+2. Yöntem İnternet kafe de oturduğumuz bilgisayardan, Alternatif Windows bir görev yöneticisi aracı indirip kuruyoruz. Herhangi bir İşlemler bölümünden cplusc.exe‘yi sonlandırıyoruz, artık süreniz bitse de bilgisayarınız kapanmayacak.
+
+3. Yöntem -İlk önce cmd'yi açınız. -Sonra ise "tasklist" enter tuşuna basın. -Çıkan ekranda Akınsoft veya CafePlus yazısı gelicek hangisi gelirse. -Sonra ise karşısında sayıyla oluşan bir kod gelicek örneğin: 1234 kodumuz olsun. -Ondan sonra ise cmd'ye "tasklist 1234" yazın ve sınırsız oturum açmış oldunuz. (Cplusc yerine başka bir cafe programı kullanılıyorsa onuda sonlandırabilirsiniz.)
+
+Method Fixmidir değilmidir bilmiyorum uzun süredir cafeye gitmedim.

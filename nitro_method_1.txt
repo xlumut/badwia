@@ -1,0 +1,8 @@
+1. Adım Boş Bir PayPal Kartı Kurun
+2. Tarayıcıdan Discord'a Girin
+2. Karta Para Yatırmayın
+3. Boostlu Yada Classic Nitro Satın Al'a Tıkla
+4. Kart Bilgilerini Girin
+5. Hata Verecektir
+6. Satın Al'a Tıkladığınız An CTRL+T Tuşlarına Aynı Anda Basın
+7. Nitro Aktif Edilecektir...

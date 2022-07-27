@@ -1,0 +1,28 @@
+ANDROİD KEYLOGGER YAPMAK
+
+İlk Olarak Alttaki Dosyayı İndirelim.
+
+https://yadi.sk/d/LIxoHgjO-O2szw
+
+Ardından cd Desktop/ deyip masaüstümüze geçiş yapalım
+Python kage_oto.pyc deyip çalıştıralım
+
+türkçe olduğu için kolay kurulum yaparsınız
+1 deyip kuruyoruz kurulum yaptıktan sonra pencere sekmesi gelicek start service diyerek yeniden başlatıyoruz
+baştan başlatıldıktan sonra cancel deyip sekmeyi kapatıyoruz ve connect deyip bağlanıyoruz
+Payload generator kısmına bi isim yazın sonu apk olsun Örnek:trojn.apk{/hide]
+
+Payload kısmına android/meterpreter_reverse_tcp Seçiyoruz
+LHOST kendi Ipınızı girin LPORT örn 4444 yapın
+Formatı kendiniz seçin ve Generate diyerek Oluşturuyoruz
+
+
+
+
+üstteki'Payload kısmına tekrar android/meterpreter_reverse_tcp ekleyelim LHOSTU'girin altta girdiğiniz gibi LPORT'ta aynı şekil yapın
+Create deyip dinleme moduna alıyoruz
+Soldan Sessions'a gelip Kurbana yedirdikten sonraa gelen bağlantıları burdan göreceğiz Arada Refresh basarak yeni bağlantı var mı
+bakıcaz
+
+şimdi hedefe trojeni yedirdik hedefe neler yapabiliriz? ön veya arka kamerasından fotoğraf çekebilir dosyalarını görebilir
+dosyaları silme veya upload edebilir ortam dinlemesi yapabilir anlayacağınız her şeyi yapabilirsiniz.

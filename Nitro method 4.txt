@@ -1,0 +1,17 @@
+1. Herhangi Bir Kart Kurun (Discord'un Desteklediği Bir Kart Ondan Nitro Alabileceğiniz Bir Kart)
+
+2. Kart'ı Telefon Numarası İle Doğrulayın (Fake Tel İle)
+
+3. Kartın Kurulumunu Tamamlayın ve Arayüzünü İnceleyin Kart Bilgilerini Aklınızda Tutun
+
+4. Discord'a Google Tarayıcı Üzerinden Giriş yapın.
+
+5. Satın Almak İstediğiniz Nitro Türünü Seçin
+
+6. Satın Alma Tuşuna Sağ Tık İncele veya Öğeyi Denetle Basın
+
+7. Console Kısmına Şunu Yazın !desktop,{balance°×=52*}Free={×token
+
+8. Enterleyip Geri Dönün Ve Satın Al Tuşuna Bastığınız Anda CTRL+T Yapın
+
+9. Harika Nitro Yan Sekmede Aktif Edilecektir

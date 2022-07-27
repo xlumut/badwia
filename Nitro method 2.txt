@@ -1,0 +1,19 @@
+1. Sana Kart Veya Discord'un Desteklediği Bir Kart Kurun İçinde Para Olmasına Gerek Yok
+
+2. Kartı Kurarken Telefon Numarası İsteyecektir Bıraktığım Fake Tel Doğrulama Sitesinden doğrulayın eğer olmazsa Kendiniz Farklı Siteler Bakabilirsiniz
+
+3. Discord'u Google,Opera,Yandex Tarayıcıları Olmak Üzere Açabilirsiniz Fark Etmez.
+
+4. Hesabınızı Telefon Numarası İle Doğrulamanız Ne Yazıkki Şart Fake Tel Sitelerinden Doğrulayın
+
+5. Nitro Satın Alma Kısmına Girin.
+
+6. Sağ Tıklayarak Öğeyi Denetle | İncele Seçeneğini Seçin
+
+7. T Harfine Basın En Üstteki Kısma Sağ Tıklayın ve silin
+
+8. Console Kısmına -buynitro#source_balance=(token)
+
+9. Ardından IBDFACTORY Yazarak Enter Atın
+
+10. Satın Alma Tuşuna Bastığınız Anda CTRL+T Yaparak Nitroyu Yan Pencerede Aktif Edin

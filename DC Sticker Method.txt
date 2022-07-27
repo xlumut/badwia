@@ -1,0 +1,9 @@
+sticker methodu
+ilk önce discord uygulamasında ctrl + shift + ı beraber basılıyor
+console tarafına gidiliyor ve bu linkte olan kodu yapıştırıyorsunuz  kod bu sitede - https://sourceb.in/28y8tPEdAO
+entera basılıp ayarlara gitmeniz gerekiyor 
+ayarlarda aşağı doğru inip experiments tarafına gidiyorsunuz ve arama bölümüne gitmeniz gerek
+arama bölümünde Stickers yazın ve orada üç seçenek bulunacak
+ordaki üç seçeneklerin herbirine bastığınızda bir tane ok çıkıyor o oklara basarak treatment 1 basmanız gerek.
+sonra kapatabilirsiniz geri döndüğünüzde sticker iconunu bulacaksınız gif ve emoji arasında bir icon.
+oraya gidip market seçeneklerin arasındaki birincisini bedavaya alabilirsiniz ve artık bir sticker paketi açıldı.

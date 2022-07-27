@@ -1,0 +1,5 @@
+PC : microsoft store üzerinden netflix uygulamasını indiriyorsunuz ve hesabınızla giriş yapıyorsunuz ardından sağ üstteki ... tıklıyorsunuz ve ayarlara basıyorsunuz ardından hesap yazısına tıkladığınızda sizi account sayfasına atacaktır bu linki kopyaladığınızda token linkini almış oluyorsunuz
+
+Mobil : Play Store yada App Store'dan netflix indirip giriş yapıyorsunuz ardından sağ alttan profil resmine tıklayıp ardından hesap yazısına tıkladığınızda account sayfasına atacaktır üst taraftan linki token linkidir.
+
+NOT : tokeni patladıkça tekrardan aynı işlemleri yaparak yeniden almanız gerekiyor.
